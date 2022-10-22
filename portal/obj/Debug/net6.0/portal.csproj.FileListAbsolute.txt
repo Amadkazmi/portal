@@ -1,0 +1,15 @@
+C:\Users\smart\source\repos\portal\portal\obj\Debug\net6.0\portal.csproj.AssemblyReference.cache
+C:\Users\smart\source\repos\portal\portal\obj\Debug\net6.0\portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\source\repos\portal\portal\obj\Debug\net6.0\portal.AssemblyInfoInputs.cache
+C:\Users\smart\source\repos\portal\portal\obj\Debug\net6.0\portal.AssemblyInfo.cs
+C:\Users\smart\source\repos\portal\portal\obj\Debug\net6.0\portal.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\portal\portal\bin\Debug\net6.0\portal.exe
+C:\Users\smart\source\repos\portal\portal\bin\Debug\net6.0\portal.deps.json
+C:\Users\smart\source\repos\portal\portal\bin\Debug\net6.0\portal.runtimeconfig.json
+C:\Users\smart\source\repos\portal\portal\bin\Debug\net6.0\portal.dll
+C:\Users\smart\source\repos\portal\portal\bin\Debug\net6.0\portal.pdb
+C:\Users\smart\source\repos\portal\portal\obj\Debug\net6.0\portal.dll
+C:\Users\smart\source\repos\portal\portal\obj\Debug\net6.0\refint\portal.dll
+C:\Users\smart\source\repos\portal\portal\obj\Debug\net6.0\portal.pdb
+C:\Users\smart\source\repos\portal\portal\obj\Debug\net6.0\portal.genruntimeconfig.cache
+C:\Users\smart\source\repos\portal\portal\obj\Debug\net6.0\ref\portal.dll
